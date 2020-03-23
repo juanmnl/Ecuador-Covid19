@@ -13,5 +13,5 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 
 ## Visualización de datos
 
-Web: [www.mointorec.app](https://www.monitorec.app)  
-Repo: [covid19-monitor](https://github.com/juanmnl/covid19-monitor)
+1.  [www.mointorec.app](https://www.monitorec.app)  
+    Repo: [covid19-monitor](https://github.com/juanmnl/covid19-monitor)
