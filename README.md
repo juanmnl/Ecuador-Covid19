@@ -10,6 +10,11 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 
 `[ejemplo](https://www.miweb.com)`
 
+## Información
+
+1. [Frena la curva](https://ecuador.frenalacurva.net )
+    Repo: ??
+
 
 ## Visualización de datos
 
