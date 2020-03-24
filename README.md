@@ -15,7 +15,7 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 1. [Página Oficial del Gobierno del Ecuador](https://coronavirusecuador.com/)
 
 2. [Frena la curva](https://ecuador.frenalacurva.net) 
-   Repo: ??
+
 
 
 ## Visualización de datos
