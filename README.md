@@ -17,6 +17,11 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 2. [Frena la curva](https://ecuador.frenalacurva.net) 
 
 
+## Alertas
+
+1. [Registro histórico, de fuentes oficiales, sobre las alertas en Ecuador](https://alertas.ec/)
+   Repo: [alertas-ec](https://github.com/mijailr/alertas.ec)
+
 ## Ayuda
 
 1. [Voluntariado Virtual](http://voluntarios.fcr.org.ec/)
