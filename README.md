@@ -19,7 +19,7 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 
 ## Alertas
 
-1. [Registro histórico, de fuentes oficiales, sobre las alertas en Ecuador](https://alertas.ec/)
+1. [Registro histórico, de fuentes oficiales, sobre las alertas en Ecuador](https://alertas.ec/)  
    Repo: [alertas-ec](https://github.com/mijailr/alertas.ec)
 
 ## Ayuda
