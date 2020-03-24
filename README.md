@@ -35,6 +35,10 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 
 ### RECURSOS ---
 
+## CSV
+
+1. [Archivo con reportes oficiales desde el 13.03](https://github.com/pablora19/COVID19_EC)
+
 ## APIs
 
 1. [JSON dump de casos por día](https://pomber.github.io/covid19/timeseries.json)
