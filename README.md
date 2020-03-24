@@ -17,6 +17,10 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 2. [Frena la curva](https://ecuador.frenalacurva.net) 
 
 
+## Ayuda
+
+1. [Voluntariado Virtual](http://voluntarios.fcr.org.ec/)
+
 
 ## Visualización de datos
 
