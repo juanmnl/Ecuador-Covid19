@@ -30,9 +30,10 @@ Y gracias por intentar hacer algo en tiempos de netflix.
    Repo: [covid19-monitor](https://github.com/juanmnl/covid19-monitor)
    
    
-   
 
---- RECURSOS ---
+
+
+### RECURSOS ---
 
 ## APIs
 
