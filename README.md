@@ -36,6 +36,9 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 
 2. [Corona Virus App (La API más actualizada, pero pagada)](https://www.notion.so/Covid-19-Coronavirus-API-d1ce9d47e64c473bbc9a034661477e84)
 
+3. [Global, datos actualizados y estable (La que usamos en monitorec.app)](https://covid19.mathdro.id/api/)
+
+
 
 ## Datos
 
@@ -44,6 +47,7 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 2. [Worldometers](https://www.worldometers.info/coronavirus/#countries)
 
 3. [Datos generales de salud en el Ecuador](https://www.who.int/data/gho/data/countries/country-details/GHO/ecuador?countryProfileId=e7b60e30-efb8-470b-9014-98cfb08567ea)
+
 
 
 ## Gráficos
