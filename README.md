@@ -3,7 +3,7 @@ Un listado de iniciativas tecnológicas, fuentes y recursos para enfrentar la cr
 
 Hola gente, les invito a agregar su iniciativa en este repo para que las manos se junten, dónde puedan.
 
-Y gracias por intentar hacer algo en tiempos de netflix.
+Y gracias por intentar hacer algo en tiempos de Netflix.
 
 1. Agregar Categoría (si no existe)
 2. Web y/o Repositorio
@@ -14,12 +14,12 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 
 1. [Página Oficial del Gobierno del Ecuador](https://coronavirusecuador.com/)
 
-2. [Frena la curva](https://ecuador.frenalacurva.net) 
+2. [Frena la curva](https://ecuador.frenalacurva.net)
 
 
 ## Alertas
 
-1. [Registro histórico, de fuentes oficiales, sobre las alertas en Ecuador](https://alertas.ec/)  
+1. [Registro histórico, de fuentes oficiales, sobre las alertas en Ecuador](https://alertas.ec/)
    Repo: [alertas-ec](https://github.com/mijailr/alertas.ec)
 
 ## Ayuda
@@ -29,16 +29,16 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 
 ## Visualización de datos
 
-1. [http://tamucc.maps.arcgis.com](http://tamucc.maps.arcgis.com/apps/opsdashboard/index.html#/606a4c8659a74ee6ae2848f852abb912) 
+1. [http://tamucc.maps.arcgis.com](http://tamucc.maps.arcgis.com/apps/opsdashboard/index.html#/606a4c8659a74ee6ae2848f852abb912)
 
-2. [www.mointorec.app](https://www.monitorec.app)  
-   Repo: [covid19-monitor](https://github.com/juanmnl/covid19-monitor) 
-   
-3. [Análisis descriptivo con Inteligencia de Negocios - Data oficial](https://pixfall.appspot.com/)   
+2. [www.mointorec.app](https://www.monitorec.app)
+   Repo: [covid19-monitor](https://github.com/juanmnl/covid19-monitor)
+
+3. [Análisis descriptivo con Inteligencia de Negocios - Data oficial](https://pixfall.appspot.com/)
 
 
 
-### RECURSOS ---
+### RECURSOS
 
 ## CSV
 
@@ -66,4 +66,4 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 
 ## Gráficos
 
-1. [Iconos para prevensión](https://www.iconfinder.com/p/coronavirus-awareness-icons)
+1. [Iconos para prevención](https://www.iconfinder.com/p/coronavirus-awareness-icons)
