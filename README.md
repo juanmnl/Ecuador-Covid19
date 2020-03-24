@@ -29,7 +29,7 @@ Y gracias por intentar hacer algo en tiempos de netflix.
 2. [www.mointorec.app](https://www.monitorec.app)  
    Repo: [covid19-monitor](https://github.com/juanmnl/covid19-monitor)
    
-   
+3. https://pixfall.appspot.com/ (Análisis descriptivo con Inteligencia de Negocios - Data oficial)   
 
 
 
