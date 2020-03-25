@@ -39,7 +39,7 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
 
 1. [http://tamucc.maps.arcgis.com](http://tamucc.maps.arcgis.com/apps/opsdashboard/index.html#/606a4c8659a74ee6ae2848f852abb912)
 
-2. [www.mointorec.app](https://www.monitorec.app)
+2. [www.monitorec.app](https://www.monitorec.app)  
    Repo: [covid19-monitor](https://github.com/juanmnl/covid19-monitor)
 
 3. [Análisis descriptivo con Inteligencia de Negocios - Data oficial](https://pixfall.appspot.com/)
