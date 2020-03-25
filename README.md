@@ -17,6 +17,14 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
 2. [Frena la curva](https://ecuador.frenalacurva.net)
 
 
+## Donaciones
+
+
+#### QUITO
+
+1. [QUITO SOLIDARIO OTRA VEZ](http://donaciones.quito.gob.ec)
+
+
 ## Alertas
 
 1. [Registro histórico, de fuentes oficiales, sobre las alertas en Ecuador](https://alertas.ec/)
