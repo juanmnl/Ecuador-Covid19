@@ -30,6 +30,9 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
 1. [Registro histórico, de fuentes oficiales, sobre las alertas en Ecuador](https://alertas.ec/)
    Repo: [alertas-ec](https://github.com/mijailr/alertas.ec)
 
+2. [Covid 19 - Community tracker](https://community-tracker-covid-19.firebaseapp.com/)
+   Repo: [covid-19-community-tracker](https://github.com/LuisReinoso/covid-19-community-tracker)
+
 ## Ayuda
 
 1. [Voluntariado Virtual](http://voluntarios.fcr.org.ec/)
