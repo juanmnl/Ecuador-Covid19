@@ -47,7 +47,10 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
 
 3. [Análisis descriptivo con Inteligencia de Negocios - Data oficial](https://pixfall.appspot.com/)
 
-
+4. [Monitoreo de casos a nivel nacional, provincial y cantonal](https://loreabad6.github.io/covid19EC/covid19EC.html)
+    Repo: [covid19EC](https://github.com/loreabad6/covid19EC)
+    
+5. [ArcGIS dasboard de ESRI-EC](https://esriec.maps.arcgis.com/apps/opsdashboard/index.html#/82919cbd50fc47c6b713c89b08c3ffdd)    
 
 ### RECURSOS
 
