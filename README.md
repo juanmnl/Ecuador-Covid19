@@ -40,17 +40,19 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
 
 ## Visualización de datos
 
-1. [http://tamucc.maps.arcgis.com](http://tamucc.maps.arcgis.com/apps/opsdashboard/index.html#/606a4c8659a74ee6ae2848f852abb912)
+1. [Visualizador interactivo de posibles escenarios #COVID19 en Ecuador](https://sites.google.com/view/lia-modo-covid-19-ecuador/visualizador)
 
-2. [www.monitorec.app](https://www.monitorec.app)  
+2. [http://tamucc.maps.arcgis.com](http://tamucc.maps.arcgis.com/apps/opsdashboard/index.html#/606a4c8659a74ee6ae2848f852abb912)
+
+3. [www.monitorec.app](https://www.monitorec.app)  
    Repo: [covid19-monitor](https://github.com/juanmnl/covid19-monitor)
 
-3. [Análisis descriptivo con Inteligencia de Negocios - Data oficial](https://pixfall.appspot.com/)
+4. [Análisis descriptivo con Inteligencia de Negocios - Data oficial](https://pixfall.appspot.com/)
 
-4. [Monitoreo de casos a nivel nacional, provincial y cantonal](https://loreabad6.github.io/covid19EC/covid19EC.html)   
+5. [Monitoreo de casos a nivel nacional, provincial y cantonal](https://loreabad6.github.io/covid19EC/covid19EC.html)   
    Repo: [covid19EC](https://github.com/loreabad6/covid19EC)
     
-5. [ArcGIS dasboard de ESRI-EC](https://esriec.maps.arcgis.com/apps/opsdashboard/index.html#/82919cbd50fc47c6b713c89b08c3ffdd)    
+6. [ArcGIS dasboard de ESRI-EC](https://esriec.maps.arcgis.com/apps/opsdashboard/index.html#/82919cbd50fc47c6b713c89b08c3ffdd)    
 
 ### RECURSOS
 
