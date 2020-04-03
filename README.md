@@ -68,8 +68,6 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
 
 3. [Global, datos actualizados y estable (La que usamos en monitorec.app)](https://covid19.mathdro.id/api/)
 
-
-
 ## Datos
 
 1. [Wikipedia - Corona Virus Ecuador](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Ecuador)
@@ -83,3 +81,13 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
 ## Gráficos
 
 1. [Iconos para prevención](https://www.iconfinder.com/p/coronavirus-awareness-icons)
+
+## Manufactura
+
+**OpenVenti**
+
+El proyecto OpenVenti integra esfuerzos de individuos y organizaciones del sector público y privado, todos aportando con recursos, infraestructura, conocimientos y experiencia, con la finalidad de establecer una alternativa viable para la fabricación de ventiladores de uso hospitalario, que puedan ser producidos localmente en los países latinoamericanos que enfrentan dificultades para la importación y acceso a este dispositivo.
+
+[Sitio Web OpenVenit](https://openventi.org/es/)
+
+[Canal de Slack](https://openventi.slack.com/join/shared_invite/zt-ctm3x94i-xqfaEFOHAGQyt285knf5pQ)
