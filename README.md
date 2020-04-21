@@ -52,7 +52,9 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
 5. [Monitoreo de casos a nivel nacional, provincial y cantonal](https://loreabad6.github.io/covid19EC/covid19EC.html)   
    Repo: [covid19EC](https://github.com/loreabad6/covid19EC)
     
-6. [ArcGIS dasboard de ESRI-EC](https://esriec.maps.arcgis.com/apps/opsdashboard/index.html#/82919cbd50fc47c6b713c89b08c3ffdd)    
+6. [ArcGIS dasboard de ESRI-EC](https://esriec.maps.arcgis.com/apps/opsdashboard/index.html#/82919cbd50fc47c6b713c89b08c3ffdd) 
+
+7. [www.covid-19-ecuador.com](https://covid19-ecuador.com)
 
 ### RECURSOS
 
